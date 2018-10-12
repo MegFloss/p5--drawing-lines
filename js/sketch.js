@@ -8,8 +8,11 @@ function setup() {
 }
 
 function draw() {
-    stroke(255, 0, 255);
     strokeWeight(4);
+
+    stroke(255, 0, 255);
     line(5, 5, 95, 95);
+
+    stroke(0, 255, 0);
     line(95, 5, 5, 95);
 }
