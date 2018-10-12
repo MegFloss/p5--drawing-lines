@@ -8,5 +8,4 @@ function setup() {
 }
 
 function draw() {
-    // This function is called repeatedly.
 }
