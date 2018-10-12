@@ -8,4 +8,5 @@ function setup() {
 }
 
 function draw() {
+    line(5, 5, 95, 95);
 }
