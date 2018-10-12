@@ -1,5 +1,3 @@
-'use strict';
-
 function setup() {
     // Setup code goes here.
     // This function runs once.
